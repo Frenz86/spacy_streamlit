@@ -1,0 +1,8 @@
+#eseguire questo:
+# esempio
+
+pip install spacy_streamlit
+
+streamlit run https://raw.githubusercontent.com/explosion/spacy-streamlit/master/examples/01_out-of-the-box.py
+
+streamlit run https://raw.githubusercontent.com/explosion/spacy-streamlit/master/examples/02_custom.py 
